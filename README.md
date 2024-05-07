@@ -47,7 +47,7 @@ Amazon Polly is a service provided by AWS that enables developers to generate hu
 
 ## Note on Lambda Function Code
 
-The Lambda function code required for this project is provided in the repository under the `lambda-function` directory. The code is named `index.js` and is written in Node.js 16.x runtime environment.
+The Lambda function code required for this project is provided in the repository. The code is named `index.js` and is written in Node.js 16.x runtime environment.
 
 To use the Lambda function code effectively:
 
