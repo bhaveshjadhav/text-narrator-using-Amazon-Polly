@@ -58,3 +58,5 @@ To use the Lambda function code effectively:
 3. **Testing and Deployment:** After customizing the code, test the Lambda function using test events in the AWS Lambda console. Ensure that the IAM role attached to the Lambda function has necessary permissions to interact with Amazon Polly and S3.
 
 By following these steps, you can effectively deploy and use the Lambda function for text-to-speech conversion using Amazon Polly.
+
+![Architectural Diagram](https://github.com/bhaveshjadhav/text-narrator-using-Amazon-Polly/assets/78265026/18e20fed-5bb0-45aa-94d6-f77d44e2ba1d)
