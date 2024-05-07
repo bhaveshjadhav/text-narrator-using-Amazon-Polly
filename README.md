@@ -59,6 +59,6 @@ To use the Lambda function code effectively:
 
 By following these steps, you can effectively deploy and use the Lambda function for text-to-speech conversion using Amazon Polly.
 
-### Architecture Image
+### Architecture Image:-
 
 ![Architectural Diagram](https://github.com/bhaveshjadhav/text-narrator-using-Amazon-Polly/assets/78265026/18e20fed-5bb0-45aa-94d6-f77d44e2ba1d)
